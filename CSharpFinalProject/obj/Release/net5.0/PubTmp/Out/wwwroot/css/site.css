@@ -1,0 +1,585 @@
+﻿html{
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    text-align: center;
+    margin-top:unset;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-bold";
+}
+/* containers */
+
+.container-fluid {
+    /*padding: 7% 10%;*/
+    padding: 7% 5%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    background-color: #34495e;
+    margin-bottom: -1px;
+}
+
+.navbar-brand {
+    font-family: "ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.3rem;
+    font-family: "Montserrat-Light";
+}
+
+/* banner */
+.banner {
+    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 770px;
+    position: relative;
+}
+
+.banner_quote p {
+    font-size: 2em;
+    color: #fff;
+    text-transform: capitalize;
+    line-height: 1.5em;
+    font-weight: 600;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.banner_quote i {
+    font-style: normal;
+    color: #FF9800;
+    font-weight: 500;
+}
+
+.service-row {
+    margin: 4rem 0 2rem;
+}
+
+.service-section h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.modal-header h3 {
+    text-align: center;
+}
+
+.modal-body p {
+    text-align: justify;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 20px;
+}
+
+.service-cols {
+    margin-bottom: 40px;
+}
+/*-- //services --*/
+
+/* Our team */
+.team-section {
+    overflow: hidden;
+    text-align: center;
+    background: #34495e;
+    padding: 40px;
+}
+
+    .team-section h1 {
+        text-transform: uppercase;
+        margin-bottom: 20px;
+        color: white;
+        font-size: 40px;
+    }
+
+.border {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 3px;
+    background: #3498db;
+    margin-bottom: 60px;
+}
+
+.team {
+    margin-bottom: 40px;
+}
+
+    .team a {
+        display: inline-block;
+        margin: 20px 50px;
+        width: 300px;
+        height: 300px;
+        overflow: hidden;
+        border-radius: 50%;
+    }
+
+        .team a img {
+            width: 100%;
+            height: 100%;
+            filter: grayscale(100%);
+            transition: 0.4s all;
+        }
+
+        .team a:hover > img {
+            filter: none;
+        }
+
+.section {
+    width: 600px;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    height: 0;
+    overflow: hidden;
+}
+
+    .section:target {
+        height: 50px;
+    }
+
+.name {
+    display: block;
+    margin-bottom: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+
+/* end of our team */
+
+/* testimonials */
+#testimonials {
+    margin-top: 20px;
+    background-color: #3498db;
+    color: #fff;
+}
+
+ #testimonials h2 {
+        padding: 30px;
+    }
+
+.testimonial-text {
+    padding: 20px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* // testimonials */
+
+/* Contact us */
+
+#contactus {
+    background-color: #c4f0ed;
+}
+.contact{
+    vertical-align: top;
+}
+.contactus h3 {
+    color: #000;
+}
+
+.address-box {
+    text-align: left;
+}
+
+    .address-box p {
+        text-align: left;
+    }
+
+.fav-icons {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.contact-reply{
+    margin: 50px auto;
+}
+/* end of Contact us */
+
+/* ====== form ==== */
+.wrapper, .maps {
+    background: #d2b047;
+    margin: 0px auto 0;
+    width: 100%;
+    max-width: 680px;
+    padding: 20px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+    .maps{
+        background: none;
+        border: 3px solid black;
+    }
+    /* content */
+    .content {
+        text-align: center;
+    }
+
+    .content h1 {
+        letter-spacing: 1px;
+    }
+/* form */
+.form {
+    width: 100%;
+    margin: 25px 0;
+}
+
+.top-form,
+.middle-form,
+.bottom-form {
+    width: 100%;
+    min-height: 65px;
+    margin: 10px 0;
+}
+
+.form input[type="text"],
+.form select {
+    border: 2px solid #fff;
+    padding: 10px 5px;
+    outline: none;
+    border-radius: 2px;
+    width: 100%;
+    transition: all 0.2s ease;
+}
+
+    .form input:focus,
+    .form select:focus {
+        border-color: #4ca1af;
+        outline: none;
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.0125), 0 0 8px rgba(76, 161, 175, 0.5);
+    }
+
+.form .label {
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+/* top-contact */
+.top-form .inner-form {
+    width: 29.9%;
+    float: left;
+    margin-right: 5%;
+}
+
+    .top-form .inner-form:last-child {
+        margin-right: 0;
+    }
+/* middle-form */
+.middle-form {
+    clear: both;
+}
+
+/* bottom-form */
+.bottom-form select {
+    height: 80px;
+}
+
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    font-family: "Kavivanar", cursive;
+}
+
+::-moz-placeholder {
+    /* Firefox 19+ */
+    font-family: "Kavivanar", cursive;
+}
+
+:-ms-input-placeholder {
+    /* IE 10+ */
+    font-family: "Kavivanar", cursive;
+}
+
+/* =========== sign up form =========== */
+#signup-form {
+    padding: 7% 10%;
+    background-color: #eaffd0;
+}
+
+.sign-up-form {
+    border-radius: 10px;
+    width: 40%;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 4% auto 0;
+    box-shadow: 2px 2px 15px black;
+}
+
+ .sign-up-form h1 {
+        color: #1c8adb;
+        margin-bottom: 30px;
+    }
+
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+.signup-btn {
+    background-color: #1c8adb;
+    font-size: 16px;
+}
+
+.login-btn {
+    background-color: #1c8adb;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* =========== // sign up end ========== */
+
+/* ====== about ====== */
+.about-banner {
+    width: 100%;
+    height: auto;
+    background-color: #85a7c9;
+}
+
+.imgbox {
+    margin: 30px;
+}
+
+.imgabout {
+    max-width: 100%;
+    max-height: 100%;
+    border: 10px solid white;
+}
+
+.about-desc {
+    margin: 20px 40px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    .about-desc p {
+        color: #444;
+        text-align: justify;
+        font-size: 16px;
+        font-weight: normal;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 20px;
+    }
+
+.second-img {
+    border: 5px solid burlywood;
+}
+
+.list-choice {
+    width: 100%;
+    background-color: #b8e6bf;
+    padding: 40px;
+}
+
+    .list-choice ul {
+        list-style: none;
+        text-align: left;
+    }
+
+    .list-choice h2 {
+        text-align: left;
+        margin-left: 4rem;
+        padding-bottom: 2rem;
+        color: #fff;
+    }
+
+    .list-choice ul li {
+        font-size: 25px;
+        font-family: 'Montserrat-bold';
+    }
+
+.fa-check-circle {
+    margin-right: 10px;
+}
+/* // ==== about ====== */
+
+/* ===== buttons ===== */
+button {
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.btn {
+    padding: 15px 0;
+    margin: 50px 10px;
+    text-align: center;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        border: 2px solid #ff9900;
+    }
+
+.book-btn h3 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    margin: 3rem;
+    margin-bottom: 0;
+}
+
+.book-btn hr {
+    width: 90%;
+    height: auto;
+    border: 1px solid #444;
+    margin-top: 0;
+}
+
+.btn-consult {
+    width: 300px;
+    padding: 15px 0;
+    margin: 50px 10px;
+    border-radius: 30px 0 30px 0;
+    text-align: center;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+
+.btn-modal {
+    width: 100%;
+    border-radius: 30px;
+    margin: 5px 10px;
+}
+
+.btn-sign-header, .login-btn, .submit-btn {
+    width: 120px;
+    background-color: #c4e0e5;
+    color: #000;
+    border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family:sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+}
+    btn-sign-header:hover, .login-btn:hover, .submit-btn:hover{
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        -webkit-transform: scale(1.1);
+        transform:scale(1.1);
+    }
+    .login-btn, .submit-btn {
+        padding: 7px;
+    }
+
+ .btn-sign-header:hover{
+     background-color: beige;
+ }
+
+    .btn-sign-header a {
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+/* ===== footer ========= */
+
+#footer {
+    background-color: gray;
+    padding: 2% 7%;
+    margin-top: auto;
+}
+
+.collapse-border {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.footer-header {
+    padding-top: 20px;
+    text-align: left;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-footer a {
+    text-align: left;
+    font-size: 1.4rem;
+    padding-bottom: 1.2rem;
+}
+
+.Copyright {
+    color: #fff;
+    width: 100%;
+    padding: 7px;
+}
+
+/* // ======== footer ==== */
+
+@media screen and (max-width: 460px) {
+    .top-form .inner-form {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .top-form,
+    .middle-form,
+    .bottom-form {
+        margin: 5px 0;
+    }
+
+    .form {
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .banner {
+        display: none;
+    }
+    .sign-up-form{
+        width: 100%;
+    }
+}
+

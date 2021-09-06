@@ -1,0 +1,240 @@
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.exe
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.deps.json
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.runtimeconfig.json
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.runtimeconfig.dev.json
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\ref\CSharpFinalProject.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.Views.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.Views.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csprojAssemblyReference.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.AssemblyInfoInputs.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.AssemblyInfo.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorAssemblyInfo.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorAssemblyInfo.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\staticwebassets\CSharpFinalProject.StaticWebAssets.Manifest.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\staticwebassets\CSharpFinalProject.StaticWebAssets.xml
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\scopedcss\bundle\CSharpFinalProject.styles.css
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.TagHelpers.input.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.TagHelpers.output.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorCoreGenerate.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\about.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\contactus.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\signup.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.Views.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\ref\CSharpFinalProject.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.genruntimeconfig.cache
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csproj.CopyComplete
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_UserLayout.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\logout.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_UserLogoutLayout.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\contactReply.cshtml.g.cs
+C:\Users\hani\Desktop\C# final project\CSharpFinalProject\bin\Debug\net5.0\Pages\web.config
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Pages\web.config
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.exe
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.deps.json
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.runtimeconfig.json
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.runtimeconfig.dev.json
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\ref\CSharpFinalProject.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.Views.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.Views.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csprojAssemblyReference.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.AssemblyInfoInputs.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.AssemblyInfo.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorAssemblyInfo.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorAssemblyInfo.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\staticwebassets\CSharpFinalProject.StaticWebAssets.Manifest.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\staticwebassets\CSharpFinalProject.StaticWebAssets.xml
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\scopedcss\bundle\CSharpFinalProject.styles.css
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.TagHelpers.input.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.TagHelpers.output.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorCoreGenerate.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\about.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\contactReply.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\contactus.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\logout.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_UserLayout.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_UserLogoutLayout.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\signup.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.Views.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csproj.CopyComplete
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\ref\CSharpFinalProject.dll
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.pdb
+C:\Users\hani\Desktop\My Trios Courses\C# final project\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.genruntimeconfig.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Pages\web.config
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.exe
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.deps.json
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.runtimeconfig.json
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.runtimeconfig.dev.json
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\ref\CSharpFinalProject.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.Views.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\CSharpFinalProject.Views.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csprojAssemblyReference.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.AssemblyInfoInputs.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.AssemblyInfo.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorAssemblyInfo.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorAssemblyInfo.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\staticwebassets\CSharpFinalProject.StaticWebAssets.Manifest.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\staticwebassets\CSharpFinalProject.StaticWebAssets.xml
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\scopedcss\bundle\CSharpFinalProject.styles.css
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.TagHelpers.input.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.TagHelpers.output.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorCoreGenerate.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\about.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\contactReply.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\contactus.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\logout.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_UserLayout.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_UserLogoutLayout.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\signup.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.Views.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.csproj.CopyComplete
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\ref\CSharpFinalProject.dll
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.pdb
+C:\Users\hani\Desktop\Prep for github\Henok_Weldeslasie_C#\CSharpFinalProject\obj\Debug\net5.0\CSharpFinalProject.genruntimeconfig.cache

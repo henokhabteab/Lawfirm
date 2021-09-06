@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-03-11T16:53:10.1834657Z"
+    }
+  },
+  "parameters": {
+    "CSharpFinalProject20210311111559.resourceGroupLocation": {
+      "Name": "CSharpFinalProject20210311111559.resourceGroupLocation",
+      "Type": null,
+      "Value": "centralus"
+    },
+    "CSharpFinalProject20210311111559.resourceName": {
+      "Name": "CSharpFinalProject20210311111559.resourceName",
+      "Type": null,
+      "Value": "CSharpFinalProject20210311111559"
+    },
+    "CSharpFinalProject20210311111559.resourceGroupName": {
+      "Name": "CSharpFinalProject20210311111559.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "finalproject"
+    },
+    "CSharpFinalProject20210311111559.subscriptionId": {
+      "Name": "CSharpFinalProject20210311111559.subscriptionId",
+      "Type": "subscription",
+      "Value": "fd11c02c-3835-45bc-ad72-99d9253cb115"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "fd11c02c-3835-45bc-ad72-99d9253cb115"
+    }
+  }
+}

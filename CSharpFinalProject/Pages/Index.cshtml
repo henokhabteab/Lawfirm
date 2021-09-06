@@ -1,0 +1,369 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div class="banner">
+        <div class="banner-layer">
+            <div class="banner_quote">
+                <p class="quote">We fight for Civil Rights</p>
+            </div>
+        </div>
+    </div>
+
+
+@section ourteam{
+    <section id="teams">
+                <div class="team-section">
+                    <h1>Our Team</h1>
+                    <span class="border"></span>
+                    <div class="team">
+                        <a href="#team1"><img src="images/Derrick Hoffman.jpg" alt=""></a>
+                        <a href="#team2"><img src="images/Shelley Aguilar.jpg" alt=""></a>
+                        <a href="#team3"><img src="images/Mathew White.jpg" alt=""></a>
+                    </div>
+
+                    <div class="section" id="team1">
+                        <span class="name">Derrick Hoffman</span>
+                        <span class="border"></span>
+                    </div>
+
+                    <div class="section" id="team2">
+                        <span class="name">Shelley Aguilar</span>
+                        <span class="border"></span>
+                    </div>
+
+                    <div class="section" id="team3">
+                        <span class="name">Mathew White</span>
+                        <span class="border"></span>
+                    </div>
+                </div>
+    </section>
+
+}
+
+
+<!-- Specialization -->
+@section services{
+    <section id="service" class="service-section">
+        <div class="container-fluid">
+            <h2>WE SPECIALIZE IN DIFFERENT AREAS</h2>
+            <div class="row service-row">
+                <div class="col-lg-4 col-md-6 service-cols">
+                    <div class="card shadow">
+                        <div class="card-header">
+                            <h3>Buisness Law</h3>
+                        </div>
+                        <div class="inner">
+                            <a href="#" data-toggle="modal" data-target="#myModal1"><img src="images/buisness law image.jpg" class="card-img-top" alt="..."></a>
+                        </div>
+                    </div>
+
+                    <div class="modal fade" id="myModal1">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3>Buisness Law</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        At Gaim Law Firm we offer a wide range of legal services, and have served as trusted legal
+                                        advisors to businesses of all sizes. Our team of business lawyers has many years of
+                                        experience in a broad range of legal matters such as incorporation, partnership and
+                                        shareholder agreements, purchase and sale of a business, commercial leases, share transfers, and asset purchases.
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="/contactus"><input type="button" class="btn btn-primary btn-modal" value="Book Appointment" /></a>
+                                    <a><input class="btn btn-modal" value="Close" data-dismiss="modal"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 service-cols">
+                    <div class="card shadow">
+                        <div class="card-header">
+                            <h3>Criminal Defense Law</h3>
+                        </div>
+                        <div class="inner">
+                            <a href="#" data-toggle="modal" data-target="#myModal2"><img src="images/criminal defense law image.jpg" class="card-img-top" alt="..."></a>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="myModal2">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3>Criminal Defense Law</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        At Gaim Law Firm – A criminal law firm in Toronto,
+                                        we strive to use our skills and experience to secure ideal results in
+                                        the field of criminal defence litigation. Our criminal lawyers have built
+                                        a reputation for their skill and determination in defending our clients.
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="/contactus"><input type="button" class="btn btn-primary btn-modal" value="Book Appointment" /></a>
+                                    <input class="btn btn-modal" value="Close" data-dismiss="modal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 service-cols">
+                    <div class="card shadow">
+                        <div class="card-header">
+                            <h3>Immigration Law</h3>
+                        </div>
+                        <div class="inner">
+                            <a href="#" data-toggle="modal" data-target="#myModal3"><img src="images/immigration law.jpg" class="card-img-top" alt="..."></a>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="myModal3">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3>Immigration Law</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        At Gaim Law Firm out team of seasoned immigration lawyers provide a full range
+                                        of immigration services to a varied spectrum of clientele, which includes individuals,
+                                        families, and businesses. Our attorneys are skilled in many areas of immigration law
+                                        including citizenship applications, permanent resident applications, employment authorizations,
+                                        visitor status extensions, sponsorship applications, student authorizations, detention hearings, and more.
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="/contactus"><input type="button" class="btn btn-primary btn-modal" value="Book Appointment" /></a>
+                                    <input class="btn btn-modal" value="Close" data-dismiss="modal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 service-cols">
+                    <div class="card shadow">
+                        <div class="card-header">
+                            <h3>Family Law</h3>
+                        </div>
+                        <div class="inner">
+                            <a href="#" data-toggle="modal" data-target="#myModal4"><img src="images/familylaw.jpg" class="card-img-top" alt="..."></a>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="myModal4">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3>Family Law</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        Our family law team consists of established family and divorce lawyers with many years of experience in resolving
+                                        contested and uncontested divorces, custody and access disputes, child support, spousal support, division of assets,
+                                        variation orders, adoption, drafting of separation agreements, prenuptial agreements, and more. Family law disputes
+                                        often involve tough negotiations, difficult decisions, and a lot of emotions. We understand that family disputes
+                                        can be very difficult to go through, which is why we ensure that our clients feel comfortable, informed and confident
+                                        every step of the way.
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="/contactus"><input type="button" class="btn btn-primary btn-modal" value="Book Appointment" /></a>
+                                    <input class="btn btn-modal" value="Close" data-dismiss="modal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 service-cols">
+                    <div class="card shadow">
+                        <div class="card-header">
+                            <h3>Labour & Employment Law</h3>
+                        </div>
+                        <div class="inner">
+                            <a href="#" data-toggle="modal" data-target="#myModal5"><img src="images/employment law.jpg" class="card-img-top" alt="..."></a>
+                        </div>
+
+                    </div>
+                    <div class="modal fade" id="myModal5">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3>Labour & Employment Law</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        Over the years we have developed significant skills and knowledge in the area of Labour and Employment law.
+                                        Our labour and employment lawyer in Toronto has a deep understanding of the employer-employee relationship,
+                                        and many years of experience with wrongful dismissals, workplace safety and insurance board issues, human rights
+                                        issues, employment agreements, termination notice, constructive dismissal, and more.
+                                    </p>
+                                    <p>
+                                        Here at Gaim Law our attorneys are able to quickly assess any case, and provide timely and effective legal
+                                        counsel to both employees and employers. Our Labor and Employment Group has had great success obtaining substantial
+                                        monetary damages, and negotiating settlements for our clients. Gaim Law approach every case with an eye toward bringing
+                                        creative and innovative solutions to deliver the best results.
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="/contactus"><input type="button" class="btn btn-primary btn-modal" value="Book Appointment" /></a>
+                                    <input class="btn btn-modal" value="Close" data-dismiss="modal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 service-cols">
+                    <div class="card shadow">
+                        <div class="card-header">
+                            <h3>Civil Litigation Law</h3>
+                        </div>
+                        <div class="inner">
+                            <a href="#" data-toggle="modal" data-target="#myModal6"><img src="images/civil litigation law.jpg" class="card-img-top" alt="..."></a>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="myModal6">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3>Civil Litigation Law</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        Our team of civil lawyers has experience arguing motions and litigating cases at many levels of the court system.
+                                        Throughout the years our team has successfully represented clients in various matters. These include contracts
+                                        and collections, landlord and tenant disputes, Alternative Dispute Resolution (ADR), and more.
+                                    </p>
+                                    <p>
+                                        At Gaim Law we are involved in every phase of litigation, from the initial filings of the proceedings to any type of
+                                        appeals before the higher courts. Our attorneys have appeared before Administrative Tribunals, Small Claims Courts,
+                                        Motion Courts, the Superior Court of Justice, Divisional Courts, the Ontario Court of Appeals, and the Federal Court
+                                        of Appeals.
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="/contactus"><input type="button" class="btn btn-primary btn-modal" value="Book Appointment" /></a>
+                                    <input class="btn btn-modal" value="Close" data-dismiss="modal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+}
+
+<!-- //end of Specialization -->
+<!-- testimonials -->
+@section testimonial{
+    <section id="testimonials">
+
+        <div id="carousel-button" class="carousel slide" data-ride="false">
+            <div class="container-fluid">
+                <h2>Testimonials</h2>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <p class="testimonial-text">I am very satisfied with my lawyer, Shelley Aguilar. She was well informed and smart. She was also helpful and kind. I would recommend her!</p>
+                        <img class="testimonial-image" src="images/test1.jpg" alt="dog-profile">
+                        <em>Pebbles, Toronto</em>
+                    </div>
+
+                    <div class="carousel-item">
+                        <p class="testimonial-text">
+                            It was absolutely a pleasure working with Mathew White. My closing went smoothly. He took his time explaining everything in detail.
+                        </p>
+                        <img class="testimonial-image" src="images/test2.jpg" alt="lady-profile">
+                        <em>Beverly, Markham</em>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carousel-button" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            </a>
+            <a class="carousel-control-next" href="#carousel-button" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            </a>
+        </div>
+    </section>
+}
+
+<!-- //end of testimonials -->
+<!-- upper footer -->
+@section upperfooter{
+    <div id="footer">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="accordian w-100 d-lg-flex" id="accordian">
+                        <div class="col-lg-4 col-md-12">
+                            <a href="#find" class="h4 text-white footer-header nav-link p-0 d-block d-lg-none d-xl-none" data-toggle="collapse">
+                                Find Us
+                            </a>
+                            <div class="text-white footer-header h4 d-none d-lg-block d-xl-block">
+                                Find Us
+                            </div>
+                            <div class="collapse text-white collapse-border d-lg-flex" id="find" data-parent="accordian">
+                                <ul class="list-unstyled d-flex w-50 justify-content-between">
+                                    <li><a href="#" class="nav-link p-0"><i class="fab fa-facebook fa-2x"></i></a></li>
+                                    <li><a href="#" class="nav-link p-0"><i class="fab fa-instagram fa-2x"></i></a></li>
+                                    <li><a href="#" class="nav-link p-0"><i class="fab fa-twitter fa-2x"></i></a></li>
+                                    <li><a href="#" class="nav-link p-0"><i class="fab fa-linkedin-in fa-2x"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <a href="#links" class="h4 text-white footer-header nav-link p-0 d-block d-lg-none d-xl-none" data-toggle="collapse">
+                                Quick Links
+                            </a>
+                            <div class="text-white footer-header h4 d-none d-lg-block d-xl-block">
+                                Quick Links
+                            </div>
+                            <div class="collapse text-white collapse-border d-lg-flex" id="links" data-parent="accordian">
+                                <ul class="list-unstyled w-100 justify-content-between list-footer">
+                                    <li><a href="/Index" class="nav-link  p-0">Home</a></li>
+                                    <li><a href="/about" class="nav-link  p-0">About Us</a></li>
+                                    <li><a href="/Index" class="nav-link  p-0">Our Teams</a></li>
+                                    <li><a href="/Index" class="nav-link  p-0">Services</a></li>
+                                    <li><a href="/about" class="nav-link  p-0">About Us</a></li>
+                                    <li><a href="/contactus" class="nav-link  p-0">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <a href="#location" class="h4 text-white footer-header nav-link p-0 d-block d-lg-none d-xl-none" data-toggle="collapse">
+                                Location
+                            </a>
+                            <div class="text-white footer-header h4 d-none d-lg-block d-xl-block">
+                                Location
+                            </div>
+                            <div class="collapse text-white collapse-border d-lg-flex" id="location" data-parent="accordian">
+                                <ul class="list-unstyled w-100 justify-content-between list-footer">
+                                    <li>
+                                        <a href="#" class="nav-link p-0">
+                                            <i class="fas fa-map-marker-alt"></i>  Main Office: 75 Scarlett rd,
+                                            York, ON, N6M 8J4
+                                        </a>
+                                    </li>
+                                    <li><a href="#" class="nav-link p-0"><i class="fas fa-phone-alt"></i></i>    (888) 999 - 5555</a></li>
+                                    <li><a href="#" class="nav-link p-0"><i class="far fa-envelope"></i>  info@gaimlawfirm.com</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+}
+

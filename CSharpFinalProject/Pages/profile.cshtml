@@ -1,0 +1,41 @@
+﻿@page
+@model CSharpFinalProject.Pages.profileModel
+@{
+    Layout = "_UserLogoutLayout";
+    ViewData["Title"] = "profile";
+}
+
+@*<h2>Welcome @Model.userName</h2>*@
+
+
+<div class="container-fluid profile-container">
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-10 mt-5 pt-5">
+            <div class="row z-depth-3">
+                <div class="col-sm-4 bg-info rounded-left">
+                    <div class="card-block text-center text-white">
+                        <i class="fas fa-user-tie fa-7x mt-5"></i>
+                        <h2 class="font-weight-bold mt-4">Welcome @Model.userName</h2>
+
+                    </div>
+                </div>
+                <div class="col-sm-8 rounded-right">
+                    <h3 class="mt-3 text-center">Information</h3>
+                    <hr class="badge-primary mt-0 w-25" />
+                    <h4>Date: @DateTime.Now</h4>
+                    <div class="row">
+                        <div class="col-sm-6">
+
+                            <p class="font-weight-bold">Email:</p>
+                            <h5>@Model.email</h5>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="font-weight-bold">Phone:</p>
+                            <h5>@Model.phone</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

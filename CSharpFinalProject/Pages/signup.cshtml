@@ -1,0 +1,26 @@
+﻿@page
+@model CSharpFinalProject.Pages.signupModel
+@{
+    Layout = "_UserLayout";
+    ViewData["Title"] = "signup";
+}
+
+
+    <div class="container-fluid" id="signup-form">
+        <div class="sign-up-form">
+            <div class="form2">
+                <form method="post" id="form2">
+                    <h1>Sign Up Now</h1>
+                    <input type="text" class="input-box" asp-for="user.userName" placeholder="User Name" required>
+                    <input type="text" class="input-box" asp-for="user.phone" placeholder="Phone number" >
+                    <input type="email" class="input-box" asp-for="user.email" placeholder="Email" required>
+                    <input type="password" class="input-box" asp-for="user.password" placeholder="Password" required>
+                    <p><span><input type="checkbox" required></span> agree to the terms of services</p>
+                    <p><input type="submit" class="submit-btn" value="Submit" /></p>
+                    <hr>
+                    <p class="or">Already a member? please <a href="/login" id="ligin">Log In</a></p>
+                </form>
+            </div>
+        </div>
+    </div>
+
